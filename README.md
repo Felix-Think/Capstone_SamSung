@@ -1,1 +1,1 @@
-# AI-repository
+# AI
