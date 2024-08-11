@@ -1,2 +1,1 @@
-# AI
-# AI
+# Capstone_SamSung
