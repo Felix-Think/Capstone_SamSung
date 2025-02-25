@@ -1,2 +1,2 @@
 # Capstone_SamSung
-I'm controlling 
+Comparison of ARIMA, Prophet, and LSTM in Time Series Datasets.
